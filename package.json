@@ -1,7 +1,7 @@
 {
   "name": "front-end",
   "version": "0.1.0",
-  "homepage": "https://alexandre990.github.io/Hamburgeria",
+  "homepage": "https://Alexandre990.github.io/Hamburgeria",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
