@@ -13,7 +13,7 @@ Projeto desenvolvido no DevClub com tecnologias Front-end e Back-end.
 <br>
 
 <p align="center">
-  <img alt="Home- and-Page" src="Falta a foto">
+  <img alt="Home- and-Page" src="https://github.com/Alexandre990/Hamburgeria/blob/master/src/Assets/Notebooks.png?raw=true">
 </p>
 
 ## 🚀 Tecnologias
