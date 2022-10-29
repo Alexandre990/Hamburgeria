@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/Hamburgeria/static/js/main.a76402a5.js",
+    "static/media/burger.svg": "/Hamburgeria/static/media/burger.403abf40e38db6711a9f168e9c106491.svg",
+    "static/media/embalagem.svg": "/Hamburgeria/static/media/embalagem.eea8c8f7dbd7c9c5cb55839256735dbb.svg",
+    "static/media/lixeira.svg": "/Hamburgeria/static/media/lixeira.7d5433368f497ae1b71d0c70ae50d84e.svg",
+    "index.html": "/Hamburgeria/index.html",
+    "static/media/fundo.svg": "/Hamburgeria/static/media/fundo.0f5eeb46c25f5d224b9a63535781ce6c.svg",
+    "main.a76402a5.js.map": "/Hamburgeria/static/js/main.a76402a5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a76402a5.js"
+  ]
+}
