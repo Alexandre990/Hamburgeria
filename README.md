@@ -13,7 +13,7 @@ Projeto desenvolvido no DevClub com tecnologias Front-end e Back-end.
 <br>
 
 <p align="center">
-  <img alt="Home- and-Page" src="FALTA A IMAGEM">
+  <img alt="Home- and-Page" src="Falta a foto">
 </p>
 
 ## 🚀 Tecnologias
